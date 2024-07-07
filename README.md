@@ -1,4 +1,4 @@
-# VE216
+# Signal & System (VE216)
 
 Please check JI Honor Code to make sure you will not violate any of those. Thanks!
 
